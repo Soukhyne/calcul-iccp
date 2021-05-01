@@ -1,0 +1,84 @@
+/* *************************
+GENERALITIES
+************************* */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Bitter", serif;
+}
+
+/* *************************
+HEADER
+************************* */
+
+.header {
+  background-color: #566074;
+  color: #d8dee9;
+  text-align: center;
+  padding: 2rem;
+}
+
+.header p {
+  font-size: 3rem;
+}
+
+.header button {
+  font-size: 2rem;
+  margin: 1rem 3rem 1rem 3rem;
+}
+
+/* *************************
+MAIN
+************************* */
+
+.hide {
+  /*visibility: hidden;*/
+  display: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+.btnPrem {
+  font-size: 2rem;
+  margin: 3rem;
+  width: 25rem;
+}
+
+.container tfoot {
+  font-weight: bold;
+}
+
+.span {
+  background-color: #fff4d0;
+}
+
+span {
+  color: red;
+}
+
+.etendre {
+  font-size: 1.3rem;
+  width: 3rem;
+}
+
+.ligneEtendre {
+  padding-left: 4rem;
+}
+
+.droite {
+  text-align: right;
+}
+
+.alert-primary {
+  text-align: center;
+}
