@@ -18,7 +18,6 @@
             <button class="btn btn-outline-light btn-lg" id="ouvreButton" type="submit">En jours ouvrés</button>
             <button class="btn btn-outline-light btn-lg" id="ouvrableButton" type="submit">En jours ouvrables</button>
         </header>
-        
         <main>
             <article id="ouvre" class="hide">
                 <div  class="container">
